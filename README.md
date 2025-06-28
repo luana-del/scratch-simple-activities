@@ -6,3 +6,5 @@ Simple activities made in Brazilian Portuguese to/with my students.
 • [Pegue a maçã - Simple catch game](https://scratch.mit.edu/projects/1138353670/)
 
 • [Dance Dance Revolution no Scratch](https://scratch.mit.edu/projects/1193029139/)
+
+• [Labirinto Espacial](https://scratch.mit.edu/projects/1193080018/)

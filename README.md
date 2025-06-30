@@ -8,3 +8,4 @@ Simple activities made in Brazilian Portuguese to/with my students.
 • [Dance Dance Revolution no Scratch](https://scratch.mit.edu/projects/1193029139/)<br>
 • [Labirinto Espacial](https://scratch.mit.edu/projects/1193080018/)<br>
 • [Batalha Espacial](https://scratch.mit.edu/projects/1193084634/)<br>
+• [Gostosuras ou travessuras](https://scratch.mit.edu/projects/1072951533)<br>

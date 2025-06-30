@@ -1,5 +1,5 @@
 # scratch-simple-activities
-Simple activities made in Brazilian Portuguese to/with my students.
+Atividades e jogos simples feitos em Português do Brasil com/para meus alunos.
 
 ![Scratch](https://juniortech.org/wp-content/uploads/2020/09/Scratch-cat-logo-300x300px.png) 
 
